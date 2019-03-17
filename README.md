@@ -1,5 +1,8 @@
 # Field the Bern - API
 
+
+
+
 Rails API for crowdsourced voter canvassing.
 
 ## Development
